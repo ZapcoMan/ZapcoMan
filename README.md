@@ -10,7 +10,7 @@
 - 📚 My Blog: [https://www.cnblogs.com/codervibe](https://www.cnblogs.com/codervibe)
 
 
-<a href="https://github.com/ZapcoMan"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF,EC6C6C&theme=graywhite&locale=cn" /></a><a href="https://github.com/ZapcoMan"><img width="450" height="137px" src="https://github-readme-stats.zohan.tech/api?username=zapcoman&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" ></a>
+<a href="https://github.com/ZapcoMan"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF,EC6C6C&theme=graywhite&locale=cn" /></a><br><a href="https://github.com/ZapcoMan"><img src="https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&locale=cn" ></a>
 
 
 
@@ -42,7 +42,14 @@ You can click the Preview link to take a look at your changes.
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zapcoman&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 
+![zapcoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient)
+<a href="https://github.com/ZapcoMan"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF,EC6C6C&theme=graywhite&locale=cn" /></a><a href="https://github.com/ZapcoMan"><img width="450" height="137px" src="https://github-readme-stats.zohan.tech/api?username=zapcoman&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" ></a>
 
+
+
+![zapcoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient)
+
+![zapcoman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF,EC6C6C&theme=graywhite&locale=cn)
 --->
 
 
@@ -57,5 +64,6 @@ You can click the Preview link to take a look at your changes.
     <td>有喜欢的项目可以给个Star⭐</td>
   </tr>
 </table>
+
 
 
