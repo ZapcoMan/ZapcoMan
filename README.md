@@ -22,7 +22,7 @@
 
 <div>
   <a href="https://github.com/ZapcoMan">
-    <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF,EC6C6C&theme=graywhite&locale=cn"  alt="?"/>
+    <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&hide_title=true&hide_border=true&layout=compact&theme=ambient_gradient&locale=cn"  alt="?"/>
   </a>
   <br/>
   <a href="https://github.com/ZapcoMan">
