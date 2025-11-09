@@ -22,11 +22,11 @@
 
 <div>
   <a href="https://github.com/ZapcoMan">
-    <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF,EC6C6C&theme=graywhite&locale=cn" />
+    <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF,EC6C6C&theme=graywhite&locale=cn"  alt="?"/>
   </a>
   <br/>
   <a href="https://github.com/ZapcoMan">
-    <img src="https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&locale=cn" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&locale=cn" alt="?"/>
   </a>
 </div>
 
