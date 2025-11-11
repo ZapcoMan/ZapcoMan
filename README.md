@@ -40,7 +40,7 @@
 </a>
 <p>
   <a href="https://github.com/ZapcoMan">
-    <img src="https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&locale=cn" alt="?"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&locale=cn" alt="?"/>
   </a>
 </p>
 </div>
