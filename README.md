@@ -33,12 +33,8 @@
 [![My Skills](https://skillicons.dev/icons?i=vim,md,html,css,js,bootstrap,ts,c,cpp,java,eclipse,idea,go,ruby,rider,python,pycharm,maven,spring,mysql,redis,mongodb,vuejs,nodejs,vite,npm,yarn,webstorm,electron,git,linux,ubuntu,debian,kali,arch,windows,powershell,raspberrypi,github,gitlab,githubactions,workers,wordpress,stackoverflow,twitter)](https://skillicons.dev)
 
 # My Future
+![](https://komarev.com/ghpvc/?username=ZapcoMan&color=green&style=for-the-badge)
 
-<table>
-  <tr>
-    <td>🥰恭喜您成为第</td>
-    <td wight='900px'><img src="https://profile-counter.glitch.me/ZapcoMan/count.svg" alt="" /></td>
-    <td>位访客，感谢您的关注和支持~😍</td>
-    <td>有喜欢的项目可以给个Star⭐</td>
-  </tr>
-</table>
+
+
+
