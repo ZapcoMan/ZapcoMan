@@ -46,7 +46,9 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-
+![username's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxx)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zapcoman&repo=xxx)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?hide=C,Dockerfile,Makefile,Shell,Batchfile,Bash,HTML,CSS,SCSS&username=zapcoman&layout=compact&theme=ambient_gradient&locale=cn&show_icons=true)
 
 
 --------------------------------------------------------------------
