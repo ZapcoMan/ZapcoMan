@@ -6,7 +6,6 @@
 - 🌱 目前正在学习 **Java、Python 和网络安全**
 - 🛠️ 会分享自己开发的安全工具和 Java Web 项目
 ### 🔧 技术专长
-
 **主攻方向**：
 - `Java` 后端开发（`Spring Boot` + `Vue3` 全栈）
 - `Python` 脚本开发（网络编程、爬虫、数据处理、信息安全工具、自动化运维）
@@ -17,12 +16,11 @@
 ### 📚 我的博客
 ##  [https://www.cnblogs.com/ZapcoMan](https://www.cnblogs.com/ZapcoMan) | [https://www.cnblogs.com/codervibe](https://www.cnblogs.com/codervibe)
 
-
 ## 📊 GitHub 统计
 
 <div>
   <a href="https://github.com/ZapcoMan">
-    <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapcoman&hide_title=true&hide_border=true&layout=compact&theme=ambient_gradient&locale=cn"  alt="?"/>
+    <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?hide=C,Dockerfile,Makefile,Shell,Batchfile,Bash,HTML,CSS,SCSS&username=zapcoman&layout=compact&theme=ambient_gradient&locale=cn&show_icons=true"  alt="?"/>
   </a>
   <br/>
   <a href="https://github.com/ZapcoMan">
@@ -34,3 +32,13 @@
 ## 🛠️ 技术栈
 [![My Skills](https://skillicons.dev/icons?i=vim,md,html,css,js,bootstrap,ts,c,cpp,java,eclipse,idea,go,ruby,rider,python,pycharm,maven,spring,mysql,redis,mongodb,vuejs,nodejs,vite,npm,yarn,webstorm,electron,git,linux,ubuntu,debian,kali,arch,windows,powershell,raspberrypi,github,gitlab,githubactions,workers,wordpress,stackoverflow,twitter)](https://skillicons.dev)
 
+# My Future
+
+<table>
+  <tr>
+    <td>🥰恭喜您成为第</td>
+    <td wight='900px'><img src="https://profile-counter.glitch.me/ZapcoMan/count.svg" alt="" /></td>
+    <td>位访客，感谢您的关注和支持~😍</td>
+    <td>有喜欢的项目可以给个Star⭐</td>
+  </tr>
+</table>
