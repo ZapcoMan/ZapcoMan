@@ -24,9 +24,12 @@
 ## 📊 GitHub 统计
 
 <div>
-<a href="https://github.com/ZapcoMan">
-    <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?hide=C,Dockerfile,Makefile,Shell,Batchfile,Bash,HTML,CSS,SCSS&username=zapcoman&layout=compact&theme=ambient_gradient&locale=cn&show_icons=true"  alt="?"/>
-</a>
+
+[//]: # (<a href="https://github.com/ZapcoMan">)
+
+[//]: # (    <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?hide=C,Dockerfile,Makefile,Shell,Batchfile,Bash,HTML,CSS,SCSS&username=zapcoman&layout=compact&theme=ambient_gradient&locale=cn&show_icons=true"  alt="?"/>)
+
+[//]: # (</a>)
 <br/>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=66863012" target="_blank" style="display: block">
