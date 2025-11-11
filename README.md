@@ -40,7 +40,7 @@
 </p>
 <p>
 
-[//]: # (  <img  width="420em" src="https://wakatime.com/share/@05f95d08-ea6d-4db9-8a8a-8d2a37727f23/dc72acae-a439-4207-8dd6-aaf31480d38f.svg"  alt="ZapcoMan"/>)
+  <img  width="420em" src="https://wakatime.com/share/@05f95d08-ea6d-4db9-8a8a-8d2a37727f23/dc72acae-a439-4207-8dd6-aaf31480d38f.svg"  alt="ZapcoMan"/>
 </p>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=66863012" target="_blank" style="display: block">
