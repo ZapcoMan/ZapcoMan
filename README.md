@@ -24,24 +24,10 @@
 ## 📊 GitHub 统计
 
 <div>
-  <a href="https://github.com/ZapcoMan">
+<a href="https://github.com/ZapcoMan">
     <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?hide=C,Dockerfile,Makefile,Shell,Batchfile,Bash,HTML,CSS,SCSS&username=zapcoman&layout=compact&theme=ambient_gradient&locale=cn&show_icons=true"  alt="?"/>
-  </a>
-  <br/>
-
-
-
-
-
-<p>
-  <a href="https://github.com/ZapcoMan">
-    <img src="https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&locale=cn" alt="?"/>
-  </a>
-</p>
-<p>
-
-  <img  width="420em" src="https://wakatime.com/share/@05f95d08-ea6d-4db9-8a8a-8d2a37727f23/dc72acae-a439-4207-8dd6-aaf31480d38f.svg"  alt="ZapcoMan"/>
-</p>
+</a>
+<br/>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=66863012" target="_blank" style="display: block">
   <picture>
@@ -49,7 +35,11 @@
     <img alt="Dashboard stats of @ZapcoMan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66863012&image_size=auto&color_scheme=dark&locale=cn" width="771" height="auto">
   </picture>
 </a>
-
+<p>
+  <a href="https://github.com/ZapcoMan">
+    <img src="https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=ambient_gradient&locale=cn" alt="?"/>
+  </a>
+</p>
 </div>
 
 ## 🛠️ 技术栈
