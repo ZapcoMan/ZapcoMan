@@ -7,9 +7,7 @@
 - 🛠️ 会分享自己开发的安全工具和 Java Web 项目
 
 ### 🔧 技术专长
-
 **主攻方向**：
-
 - `Java` 后端开发（`Spring Boot` + `Vue3` 全栈）
 - `Python` 脚本开发（网络编程、爬虫、数据处理、信息安全工具、自动化运维）
 
@@ -40,11 +38,3 @@
 ## 🛠️ 技术栈
 
 [![My Skills](https://skillicons.dev/icons?i=vim,md,html,css,js,bootstrap,ts,c,cpp,java,eclipse,idea,go,ruby,rider,python,pycharm,maven,spring,mysql,redis,mongodb,vuejs,nodejs,vite,npm,yarn,webstorm,electron,git,linux,ubuntu,debian,kali,arch,windows,powershell,raspberrypi,github,gitlab,githubactions,workers,wordpress,stackoverflow,twitter)](https://skillicons.dev)
-
-# My Future
-
-![](https://komarev.com/ghpvc/?username=ZapcoMan&color=green&style=for-the-badge)
-
-
-
-
