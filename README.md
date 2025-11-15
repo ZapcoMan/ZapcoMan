@@ -22,20 +22,17 @@
 ## 📊 GitHub 统计
 
 <div>
-    <p>
-      <a href="https://github.com/ZapcoMan">
-        <img src="https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&locale=cn" alt="?"/>
-      </a>
-    </p>
     <div>
       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=66863012" target="_blank" style="display: block">
         <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66863012&image_size=auto&color_scheme=dark&locale=cn" width="771" height="auto">
         <img alt="Dashboard stats of @ZapcoMan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66863012&image_size=auto&color_scheme=dark&locale=cn" width="771" height="auto">
       </a>
-      <a href="https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution?period=last_3_year&zone=0&repo_id=531794926" target="_blank">
-        <img src="https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution/thumbnail.png?period=last_3_year&zone=0&repo_id=531794926&image_size=auto&color_scheme=dark&locale=cn" width="720" height="auto" alt="Commits Time Distribution of ZapcoMan/ZapcoMan">
-      </a>
     </div>
+    <p>
+      <a href="https://github.com/ZapcoMan">
+        <img src="https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&locale=cn" alt="?"/>
+      </a>
+    </p>
 </div>
 
 ## 🛠️ 技术栈
