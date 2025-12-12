@@ -11,14 +11,6 @@
 - `Java` 后端开发（`Spring Boot` + `Vue3` 全栈）
 - `Python` 脚本开发（网络编程、爬虫、数据处理、信息安全工具、自动化运维）
 
-### 🏆 个人成就
-
-- **能力评价**：全链路落地能力 6/6，工程化与规范化 6/6
-
-### 📚 我的博客
-
-## [https://www.cnblogs.com/ZapcoMan](https://www.cnblogs.com/ZapcoMan) | [https://www.cnblogs.com/codervibe](https://www.cnblogs.com/codervibe)
-
 ## 📊 GitHub 统计
 
 <div>
