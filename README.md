@@ -26,7 +26,7 @@
     </div>
     <div>
         <a href="https://github.com/zapcoman">
-          <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=zapcoman&theme=react-dark&hide_border=true&area=true"/>
+          <img height="400em" src="https://github-readme-activity-graph.vercel.app/graph?username=zapcoman&theme=react-dark&hide_border=true&area=true"/>
         </a>
     </div>
 </div>
