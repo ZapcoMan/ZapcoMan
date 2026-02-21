@@ -33,8 +33,8 @@
 <div>
     <div>
       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=66863012" target="_blank" style="display: block">
-        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66863012&image_size=auto&color_scheme=dark&locale=cn" width="771" height="auto">
-        <img alt="Dashboard stats of @ZapcoMan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66863012&image_size=auto&color_scheme=dark&locale=cn" width="771" height="auto">
+        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66863012&image_size=auto&color_scheme=dark&locale=cn" width="771em" height="auto">
+        <img alt="Dashboard stats of @ZapcoMan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66863012&image_size=auto&color_scheme=dark&locale=cn" width="771em" height="auto">
       </a>
     </div>
 </div>
