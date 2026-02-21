@@ -12,13 +12,16 @@
 - `Python` 脚本开发（网络编程、爬虫、数据处理、信息安全工具、自动化运维）
 
 ## 📊 GitHub 统计
+<div align="center">
 
+<!-- Activity Graph - More Reliable -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zapcoman&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Streak Stats - Alternative Domain -->
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=zapcoman&theme=react&hide_border=true)](https://git.io/streak-stats)
+---
+</div>
 <div>
-    <p>
-      <a href="https://github.com/ZapcoMan">
-        <img src="https://github-readme-stats.vercel.app/api?username=zapcoman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&locale=cn" alt="?"/>
-      </a>
-    </p>
     <div>
       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=66863012" target="_blank" style="display: block">
         <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=66863012&image_size=auto&color_scheme=dark&locale=cn" width="771" height="auto">
@@ -27,6 +30,8 @@
     </div>
     
 </div>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=zapcoman&color=blue&style=flat-square&label=Profile+Views)
 
 ## 🛠️ 技术栈
 
