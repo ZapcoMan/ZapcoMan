@@ -15,8 +15,11 @@
 <div>
     <div>
         <a href="https://github.com/zapcoman">
-          <img  height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zapcoman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-          <img  height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zapcoman&layout=compact&langs_count=8&theme=algolia"/>
+            <img  height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zapcoman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+            <img  height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zapcoman&layout=compact&langs_count=8&theme=algolia"/>
+        </a>
+        <a href="https://github.com/zapcoman">
+            <img src="https://github-readme-stats.zcy.dev/api/wakatime?username=zapcoman&locale=cn&langs_count=10" align="center" />
         </a>
     </div>
     <div>
