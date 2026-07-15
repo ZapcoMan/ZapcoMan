@@ -14,7 +14,7 @@
 - `Go`
 
 
-## 📊 GitHub 统计
+# 📊 GitHub 统计
 <div>
     <div>
         <a href="https://github.com/zapcoman">
