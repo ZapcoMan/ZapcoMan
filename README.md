@@ -1,4 +1,4 @@
-# Hi there 👋 我是 ZapcoMan (codervibe)
+# Hi there 👋 我是 ZapcoMan
 
 # 🧑‍💻 关于我
 
