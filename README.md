@@ -46,6 +46,11 @@
 </p>
 
 ---
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&center=true&width=800&height=70&lines=Welcom+to+my+Github+profile+page!" alt="Typing SVG" /></a>
+</p>
+
+---
 
 ## 📊 GitHub 统计
 
@@ -80,3 +85,11 @@
 ⭐ 如果你喜欢我的项目，欢迎给个 Star！
 
 </div>
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20by-Kali%20Linux-blue.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-Penetration%20Testing-darkblue.svg?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Penetration Testing Badge">
+  <img src="https://img.shields.io/badge/Organization-Alfadi%20Alliance-lightgray.svg?style=for-the-badge&logo=github&logoColor=white" alt="Alfadi Alliance Badge">
+</p>
+---
