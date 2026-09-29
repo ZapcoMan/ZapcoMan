@@ -1,7 +1,7 @@
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zapcoman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="ZapcoMan Stats" />
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zapcoman&layout=compact&langs_count=8&theme=algolia&hide=html" alt="Top Languages" />
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zapcoman&show_icons=true&include_all_commits=true&count_private=true" alt="ZapcoMan Stats" />
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zapcoman&layout=compact&langs_count=8&hide=html" alt="顶部 语言" />
 </div>
 
 <p align="center">
