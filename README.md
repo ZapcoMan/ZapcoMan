@@ -56,11 +56,11 @@
 
 ## 💡 兴趣方向
 
+- **微服务架构**：Java Spring Cloud 实现
 - **网络安全**：漏洞扫描、渗透测试、漏洞利用开发
 - **全栈开发**：Java Spring、Python、TypeScript/Vue
 - **网络编程**：使用 Go、Rust 开发高性能工具
 - **Web 爬虫与自动化**：Python 数据采集
-- **微服务架构**：Java Spring Cloud 实现
 
 ## 📈 开发重点
 
