@@ -1,14 +1,14 @@
 <div align="center">
-  <h1>👋 Welcome to ZapcoMan's GitHub</h1>
-  <p>Full-stack developer passionate about cybersecurity, web development, and programming.</p>
+  <h1>👋 欢迎来到 ZapcoMan 的 GitHub</h1>
+  <p>全栈开发者，热衷于网络安全、Web 开发和编程。</p>
 </div>
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zapcoman&show_icons=true&include_all_commits=true&count_private=true" alt="ZapcoMan Stats" />
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zapcoman&layout=compact&langs_count=8&hide=html" alt="Top Languages" />
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zapcoman&show_icons=true&include_all_commits=true&count_private=true" alt="ZapcoMan 统计" />
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zapcoman&layout=compact&langs_count=8&hide=html" alt="顶部语言" />
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,62 +16,62 @@
   </a>
 </p>
 
-## 📊 Repository Statistics
+## 📊 仓库统计
 
-- **Total Repositories**: 88
-- **Primary Languages**:
-  - Python: 23 projects (26.1%) - Web scraping, security tools, networking
-  - Java: 7 projects (8.0%) - Backend systems, security tools
-  - TypeScript: 6 projects (6.8%) - Frontend applications
-  - Vue: 4 projects (4.5%) - Web applications
-  - Rust: 2 projects (2.3%) - Performance-critical tools
-  - Go: 2 projects (2.3%) - Network tools
-  - JavaScript: 3 projects (3.4%)
-  - Other: 32 projects (36.4%) - Including forks and configuration files
+- **项目总数**：88 个
+- **主要编程语言**：
+  - Python：23 个项目（26.1%）- Web 爬虫、安全工具、网络应用
+  - Java：7 个项目（8.0%）- 后端系统、安全工具
+  - TypeScript：6 个项目（6.8%）- 前端应用
+  - Vue：4 个项目（4.5%）- Web 应用
+  - Rust：2 个项目（2.3%）- 高性能工具
+  - Go：2 个项目（2.3%）- 网络工具
+  - JavaScript：3 个项目（3.4%）
+  - 其他：32 个项目（36.4%）- 包括 Fork 项目和配置文件
 
-## 🎯 Featured Projects
+## 🎯 精选项目
 
-### Security & Scanning Tools
-- **QRCodeScanner** - Rust-based QR code scanner
-- **RayScanX** - Python vulnerability scanner
-- **King-CrackX** - TypeScript security tool
-- **MedusaX** - Python-based security utility
-- **hackingtool** - Python penetration testing toolkit
+### 安全扫描工具
+- **QRCodeScanner** - 基于 Rust 的二维码扫描器
+- **RayScanX** - Python 漏洞扫描工具
+- **King-CrackX** - TypeScript 安全工具
+- **MedusaX** - Python 安全实用程序
+- **hackingtool** - Python 渗透测试工具包
 
-### Web & Network Tools
-- **WeFlow** - TypeScript workflow application
-- **sing-box** - Go-based network proxy
-- **DrawnixPlus** - TypeScript drawing application
-- **notebook** - Personal note-taking application
+### Web 与网络工具
+- **WeFlow** - TypeScript 工作流应用
+- **sing-box** - 基于 Go 的网络代理
+- **DrawnixPlus** - TypeScript 绘图应用
+- **notebook** - 个人笔记应用
 
-### Backend Systems
-- **steel-factory-fullstack** - Java microservices architecture
-- **communitygroupbuyingsystemMicroserviceCase** - Java microservices implementation
-- **GodzillaX** - Java security tool
+### 后端系统
+- **steel-factory-fullstack** - Java 微服务架构
+- **communitygroupbuyingsystemMicroserviceCase** - Java 微服务实现
+- **GodzillaX** - Java 安全工具
 
-### Data & Analysis
-- **QRCodeAnalyze** - Python QR code analysis
-- **qrCodeAnalyzerWeb** - Python web-based analyzer
-- **AppInfoScanner** - Python application scanner
+### 数据分析
+- **QRCodeAnalyze** - Python 二维码分析
+- **qrCodeAnalyzerWeb** - Python 网页分析器
+- **AppInfoScanner** - Python 应用扫描器
 
-## 💡 Areas of Interest
+## 💡 兴趣方向
 
-- **Cybersecurity**: Vulnerability scanning, penetration testing, exploit development
-- **Full-Stack Development**: Java Spring, Python, TypeScript/Vue
-- **Network Programming**: Go, Rust for high-performance tools
-- **Web Scraping & Automation**: Python-based data collection
-- **Microservices Architecture**: Java Spring Cloud implementations
+- **网络安全**：漏洞扫描、渗透测试、漏洞利用开发
+- **全栈开发**：Java Spring、Python、TypeScript/Vue
+- **网络编程**：使用 Go、Rust 开发高性能工具
+- **Web 爬虫与自动化**：Python 数据采集
+- **微服务架构**：Java Spring Cloud 实现
 
-## 📈 Development Focus
+## 📈 开发重点
 
-- Backend Development (Java, Python, Go)
-- Security Research & Tools
-- Web Application Development (Vue.js, TypeScript)
-- DevOps & Containerization (Docker)
-- API Integration & Development
+- 后端开发（Java、Python、Go）
+- 安全研究与工具开发
+- Web 应用开发（Vue.js、TypeScript）
+- DevOps 与容器化（Docker）
+- API 集成与开发
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zapcoman" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zapcoman" alt="个人资料浏览量" />
 </div>
