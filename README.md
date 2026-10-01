@@ -32,7 +32,7 @@
 ## 🎯 精选项目
 
 ### 安全扫描工具
-- **QRCodeScanner** - 基于 Rust 的二维码扫描器
+- **QRCodeScanner** - 基于 Rust 的命令行二维码扫描器
 - **RayScanX** - Python 漏洞扫描工具
 - **King-CrackX** - TypeScript 安全工具
 - **MedusaX** - Python 安全实用程序
