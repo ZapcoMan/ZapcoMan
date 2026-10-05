@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zapcoman&show_icons=true&include_all_commits=true&count_private=true" alt="ZapcoMan 统计" />
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zapcoman&layout=compact&langs_count=8&hide=html" alt="顶部语言" />
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zapcoman&layout=compact&langs_count=8&hide=html&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" alt="顶部语言" />
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zapcoman&show_icons=true&include_all_commits=true&count_private=true&bg_color=0,79FDA9,FFFC79,EC6C6C&theme=graywhite&locale=cn" alt="ZapcoMan 统计" />
 </div>
 
 ## 🛠️ 技术栈
