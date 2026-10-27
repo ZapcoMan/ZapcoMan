@@ -4,15 +4,15 @@
 </div>
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zapcoman&layout=compact&langs_count=8&hide=html&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=gr[...]
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zapcoman&show_icons=true&include_all_commits=true&count_private=true&bg_color=0,79FDA9,FFFC79,EC6C6C&theme[...]
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zapcoman&layout=compact&langs_count=8&hide=html&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" alt="顶部语言" />
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zapcoman&show_icons=true&include_all_commits=true&count_private=true&bg_color=0,79FDA9,FFFC79,EC6C6C&theme=graywhite&locale=cn" alt="ZapcoMan 统计" />
 </div>
 
 ## 🛠️ 技术栈
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,go,rust,python,pycharm,idea,vuejs,vite,nodejs,ts,js,html,css,mysql,redis,mongodb,docker,git,github,githubactions,linux,kali,arch,windows,po[...]
+    <img src="https://skillicons.dev/icons?i=java,spring,go,rust,python,pycharm,idea,vuejs,vite,nodejs,ts,js,html,css,mysql,redis,mongodb,docker,git,github,githubactions,linux,kali,arch,windows,powershell" alt="技术栈" />
   </a>
 </p>
 
